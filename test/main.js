@@ -1,5 +1,3 @@
-console.warn('Hello World');
-
 function fibonacci(nb) {
     if(nb < 2) {
         return nb;
